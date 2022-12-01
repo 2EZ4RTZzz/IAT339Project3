@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  border: 1px solid black;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.imgs {
+  position: static;
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  position: absolute;
+}/*# sourceMappingURL=shared.css.map */
