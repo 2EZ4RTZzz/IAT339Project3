@@ -33,6 +33,10 @@
   animation: reveal 2s ease-in-out forwards 0.2s, glow 2.5s linear infinite 2s;
 }
 
+h2{
+  text-align: center;
+}
+
 @keyframes reveal {
   80% {
     letter-spacing: 8px;
@@ -57,7 +61,7 @@ a {
 }
 
 p {
-  font-size: 1rem;
+  font-size: 2rem;
   margin-top: 0;
   text-align: justify;
   color: orange;
@@ -73,8 +77,6 @@ p {
     transform: scale(1.03);
   }
 }
-
-
 
 
 
@@ -98,6 +100,7 @@ h1 {
   margin-bottom: 10%;
   margin-left: 25%;
   color: rgb(53, 188, 206);
+  font-size:5rem;
 }
 
 
@@ -647,4 +650,12 @@ h1 {
     top: 15px;
     right: 35px;
   }
+}
+
+
+.happy{
+  width:63%;
+  margin-left:19%;
+  justify-content: center;
+  margin-bottom: 4rem;
 }
